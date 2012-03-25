@@ -107,6 +107,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Objects\Character.cs" />
+    <Compile Include="Objects\Map.cs" />
+    <Compile Include="Objects\Move.cs" />
+    <Compile Include="Objects\Player.cs" />
+    <Compile Include="Objects\PowerUp.cs" />
+    <Compile Include="Objects\Weapon.cs" />
     <Compile Include="ScreenManager\ControllerState.cs" />
     <Compile Include="ScreenManager\GameScreen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
